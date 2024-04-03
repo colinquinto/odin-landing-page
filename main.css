@@ -76,9 +76,12 @@ header {
 .first-two {
     display: flex;
     justify-content: center;
+<<<<<<< HEAD
 }
 
 .first-two img {
     min-width: 100%;
     height: 300px;
+=======
+>>>>>>> 89ba4f2ac529d52ae63aa874726509b910152444
 }
