@@ -149,4 +149,39 @@ header {
     font-weight: bold;
 }
 
+.fourth-section {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
 
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    background-color: #50C878;
+    padding: 35px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.action-text span {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+}
+
+.action-button {
+    display: flex;
+    align-items: center;
+}
+
+.action-button button{
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #3882f6;
+    border-color: #005F69;
+    color: white;
+    font-weight: bold;
+}
