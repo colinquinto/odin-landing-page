@@ -170,6 +170,10 @@ header {
     display: flex;
 }
 
+.action-text {
+    color: #005F69;
+}
+
 .action-button {
     display: flex;
     align-items: center;
@@ -184,4 +188,11 @@ header {
     border-color: #005F69;
     color: white;
     font-weight: bold;
+}
+
+footer {
+    background-color: #50C878;
+    padding: 25px;
+    text-align: center;
+    color: #005F69;
 }
