@@ -119,3 +119,34 @@ header {
     text-align: center;
     color: #005F69;
 }
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    color: #005F69;
+}
+
+.quote p{
+    font-size: 36px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-weight: lighter;
+}
+
+.quote span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
